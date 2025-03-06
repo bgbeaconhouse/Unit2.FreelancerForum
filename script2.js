@@ -91,6 +91,6 @@ const addFreelancer = () => {
   renderFreelancers();
 };
 
-setInterval (addFreelancer, 1000);
+setInterval (addFreelancer, 3000);
 
 init();
